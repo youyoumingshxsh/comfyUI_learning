@@ -14,4 +14,8 @@
 
 [视频生视频animateDiff prompt travel ，姿势控制加快速变装](https://www.bilibili.com/video/BV1s34y1c71u/)
 
+[AnimateDiff+ControlNet+Openpose+Depth生成动画，男变女，好玩](https://www.bilibili.com/video/BV1YN4y1e7Hn/)
+
+
+
 
